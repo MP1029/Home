@@ -2,14 +2,6 @@ body {
     background-color: lightgrey;
 }
 
-.front-banner {
-    width: 1340px;
-    border-style: solid;
-    border-width: thick;    
-    border-color: teal;
-    position: center;
-}
-
 button {
     background-color: black;
     color: white;
@@ -33,6 +25,6 @@ p {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 a {
-    color: teal;
+    color: lightblue;
     font-style: oblique;
 }
