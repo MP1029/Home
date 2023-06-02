@@ -1,0 +1,38 @@
+body {
+    background-color: lightgrey;
+}
+
+.front-banner {
+    width: 1340px;
+    border-style: solid;
+    border-width: thick;    
+    border-color: teal;
+    position: center;
+}
+
+button {
+    background-color: black;
+    color: white;
+    padding: 2px 25px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    border-style: solid;
+    border-color: teal;
+    border-radius: 1%;
+    border-width: thick;
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: currentColor;
+}
+
+p {
+    color: currentColor;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a {
+    color: teal;
+    font-style: oblique;
+}
